@@ -1534,6 +1534,15 @@ img.mfp-img {
     width: 50%;
   }
 }
+.gallery1 {
+  background-color: #1d428a;
+}
+.section-title h2 {
+  color: white;
+}
+.section-title p {
+  color: white;
+}
 
 /* ===================================== 
     13. MEDIA QUERIES. 
